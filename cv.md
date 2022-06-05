@@ -24,11 +24,11 @@ In my opinion, Roosevelt's quote most accurately describes my life philosophy:
     - Politic
     - Economy
 - **SGD  – Certified Web Designer**
-    - Developmeent and maintenance using HTML/HTML5
     - Website management
+    - Developmeent and maintenance using HTML/HTML5
+    - Programming using JavaScript
     - Visual communication
     - Websites for Smartphones
-    - Programming using JavaScript
     - Web-Content-Management-System Joomla
 
 ## My skills
