@@ -11,7 +11,7 @@
 **Location:** Frankfurt am Main, Germany
 ## About me
 
-An accomplished sociologist and certified web designer, I have been involved in online marketing for more than a decade. 
+An accomplished sociologist and certified web designer, I have been involved in online marketing as SEO and affiliate specialist for more than a decade. 
 Working on educational apps as well as UI/UX design is my passion. When I am free I enjoy spending time with my son and reading. 
 My curiosity and interest in self-development make me an autodidact. 
 In my opinion, Roosevelt's quote most accurately describes my life philosophy: 
