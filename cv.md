@@ -30,6 +30,7 @@ In my opinion, Roosevelt's quote most accurately describes my life philosophy:
     - Websites for Smartphones
     - Programming using JavaScript
     - Web-Content-Management-System Joomla
+
 ## My skills
 
 * HTML5 & CSS3
