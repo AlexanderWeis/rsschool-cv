@@ -6,7 +6,7 @@
 
 **E-Mail:** rs.2926cd@mailbeaver.net
 
-**Github:**
+**Github:** <https://github.com/AlexanderWeis>
 
 **Location:** Frankfurt am Main, Germany
 ## About me
@@ -17,18 +17,18 @@ My curiosity and interest in self-development make me an autodidact.
 In my opinion, Roosevelt's quote most accurately describes my life philosophy: > Do what you can, with what you have, where you are. > 
 ## My education
 
-* TU Darmstadt – Graduate sociologist
-    1. Sociology
-    1. History
-    1. Politic
-    1. Economy
-* SGD  – Certified Web Designer
-    1. Developmeent and maintenance using HTML/HTML5
-    1. Website management
-    1. Visual communication
-    1. Websites for Smartphones
-    1. Programming using JavaScript
-    1. Web-Content-Management-System Joomla
+- TU Darmstadt – Graduate sociologist
+    - Sociology
+    - History
+    - Politic
+    - Economy
+- SGD  – Certified Web Designer
+    - Developmeent and maintenance using HTML/HTML5
+    - Website management
+    - Visual communication
+    - Websites for Smartphones
+    - Programming using JavaScript
+    - Web-Content-Management-System Joomla
 ## My skills
 
 * HTML5 & CSS3
