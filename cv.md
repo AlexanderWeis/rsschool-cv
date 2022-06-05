@@ -18,12 +18,12 @@ In my opinion, Roosevelt's quote most accurately describes my life philosophy:
 > Do what you can, with what you have, where you are. >
 ## My education
 
-- TU Darmstadt – Graduate sociologist
+- **TU Darmstadt – Graduate sociologist**
     - Sociology
     - History
     - Politic
     - Economy
-- SGD  – Certified Web Designer
+- **SGD  – Certified Web Designer**
     - Developmeent and maintenance using HTML/HTML5
     - Website management
     - Visual communication
