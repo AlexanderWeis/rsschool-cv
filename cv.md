@@ -15,7 +15,7 @@ An accomplished sociologist and certified web designer, I have been involved in 
 Working on educational apps as well as UI/UX design is my passion. When I am free I enjoy spending time with my son and reading. 
 My curiosity and interest in self-development make me an autodidact. 
 In my opinion, Roosevelt's quote most accurately describes my life philosophy: 
-> Do what you can, with what you have, where you are.
+> Do what you can, with what you have, where you are. >
 ## My education
 
 - TU Darmstadt – Graduate sociologist
@@ -32,7 +32,6 @@ In my opinion, Roosevelt's quote most accurately describes my life philosophy:
     - Web-Content-Management-System Joomla
 
 ## My skills
-
 * HTML5 & CSS3
 * JavaScript
 * Git, GitHub
